@@ -1,2 +1,2 @@
 # Clicker
-Auto clicker
+Auto clicker used to prevent disconnecting in games
